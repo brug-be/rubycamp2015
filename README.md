@@ -7,3 +7,4 @@ As a participant, you have access to this repository. It is your place to prepar
 # Contents
 
 - [Carpooling](carpooling.md)
+- [Talks](talks.md)
