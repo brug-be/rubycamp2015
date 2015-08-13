@@ -44,3 +44,4 @@ Pseudo       | Skill                             |
 ------------ | --------------------------------- |
 @toch        | ruby, crystal, AI, stat           |
 @flexbox     | front-end, HTML, Sass, JavaScript |
+@apneadiving | ruby, javascript, angular         |
