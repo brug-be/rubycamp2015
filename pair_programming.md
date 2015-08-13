@@ -40,6 +40,7 @@ Pseudo       | Project                 |
 
 ### Helpers
 
-Pseudo       | Skill                   |
------------- | ----------------------- |
-@toch        | ruby, crystal, AI, stat |
+Pseudo       | Skill                             |
+------------ | --------------------------------- |
+@toch        | ruby, crystal, AI, stat           |
+@flexbox     | front-end, HTML, Sass, JavaScript |
