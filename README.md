@@ -10,6 +10,9 @@ As a participant, you have access to this repository. It is your place to
 prepare, plan, organize your activities, projects, etc. Please make it yours.
 The weekend depends on it.
 
+Do not forget to [join our slack](http://rubyburgers.herokuapp.com/) to discuss
+the event.
+
 # Organization
 
 * [Carpooling](carpooling.md)
