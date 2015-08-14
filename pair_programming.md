@@ -1,6 +1,7 @@
 # Pair Programming Session
 
 Organizer: @toch
+When: Saturday
 
 Traditionally two roles are considered in pair programming: the driver and the
 navigator. The driver has control of the keyboard, and focuses on the immediate
