@@ -34,10 +34,10 @@ I, @toch, will help you to create the pairs.
 
 ### Promoters
 
-Promotter    | Helper       | Project                    |
------------- | ------------ | -------------------------- |
-@djouuuuh    | @apneadiving | Create a RoR webservice with an admin interface to manage a list of shops locations and information (displayed as a marker with a popup on a Google Map, for example). |
-...          | ... | ...                     |
+Promoter     | Project                    |
+------------ | -------------------------- |
+@djouuuuh    | Create a RoR webservice with an admin interface to manage a list of shops locations and information (displayed as a marker with a popup on a Google Map, for example). |
+...          | ...                     |
 
 ### Helpers
 
@@ -46,3 +46,10 @@ Pseudo       | Skill                             |
 @toch        | ruby, crystal, AI, stat           |
 @flexbox     | front-end, HTML, Sass, JavaScript |
 @apneadiving | ruby, javascript, angular         |
+
+### Pairs
+
+Promoter    | Helper        | Project                    |
+------------ | ------------ | -------------------------- |
+@djouuuuh    | @apneadiving | Create a RoR webservice with an admin interface to manage a list of shops locations and information (displayed as a marker with a popup on a Google Map, for example). |
+...          | ...          | ...                        |
