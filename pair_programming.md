@@ -48,6 +48,7 @@ Pseudo       | Skill                             |
 @flexbox     | front-end, HTML, Sass, JavaScript |
 @tgautier    | ruby/rails, code architecture (the other rails way), devops & cloud computing best practices |
 ~~@apneadiving~~ | ruby, javascript, angular         |
+@cveneziani  | ruby/rails, code architecture (the other rails way), style conventions |
 
 ### Pairs
 
