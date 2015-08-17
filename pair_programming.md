@@ -46,6 +46,7 @@ Pseudo       | Skill                             |
 ------------ | --------------------------------- |
 @toch        | ruby, crystal, AI, stat           |
 @flexbox     | front-end, HTML, Sass, JavaScript |
+@tgautier    | ruby/rails, code architecture (the other rails way), devops & cloud computing best practices |
 ~~@apneadiving~~ | ruby, javascript, angular         |
 
 ### Pairs
