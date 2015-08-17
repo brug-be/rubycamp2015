@@ -23,6 +23,7 @@ Could you please write down your name and your game level if you are interested 
 Name         | Already played? (yes/no)   | Level (novice/intermediate/expert) | Can master (yes/no) |
 ------------ | -------------------------- | --------------------------         | ------------        |
 @djouuuuh    | yes                        | intermediate                       | yes (with a cheating paper for the translation) |
+@toch        | yes                        | expert without extensions          | yes (I need cheatsheet for extensions)      |
 
 ## Board Games
 
