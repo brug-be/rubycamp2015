@@ -25,6 +25,7 @@ Name         | Already played? (yes/no)   | Level (novice/intermediate/expert) |
 @djouuuuh    | yes                        | intermediate                       | yes (with a cheating paper for the translation) |
 @toch        | yes                        | expert without extensions          | yes (I need cheatsheet for extensions)      |
 @cveneziani  | yes                        | intermediate                       | no                  |
+@flexbox     | yes                        | expert with extensions             | no                  |
 
 ## Board Games
 
