@@ -30,3 +30,6 @@ Name         | Already played? (yes/no)   | Level (novice/intermediate/expert) |
 
 * Settlers of Catan (@toch)
 * Go (@toch)
+* Dominion (@cveneziani) - Cards in French but we'll translate
+* [Shithead](https://en.wikipedia.org/wiki/Shithead_%28card_game%29) (@cveneziani)
+* Time's Up (no one) - We just need paper, pens and our imagination
