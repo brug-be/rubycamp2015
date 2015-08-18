@@ -36,3 +36,5 @@ Name         | Already played? (yes/no)   | Level (novice/intermediate/expert) |
 * [Shithead](https://en.wikipedia.org/wiki/Shithead_%28card_game%29) (@cveneziani)
 * Time's Up (no one) - We just need paper, pens and our imagination
 * Concept (@apneadiving)
+* Cards against humanity (@ys)
+* Exploding kittens (@ys)
