@@ -4,7 +4,7 @@ List here the games you'll bring with you and would like to play.
 
 ## Werewolves
 
-I (@djouuuuh) can organize a session of *The Werewolves of Miller's Hollow* (*Les loups-garous de Thiercelieux* in french) if we are at least **8** motivated players (+ the game master), else it won't be funny. The session may take place on **Saturday** because it's the only day I'm there (I will see with @toch for the schedule).
+I (@djouuuuh) can organize a session of *The Werewolves of Miller's Hollow* (*Les loups-garous de Thiercelieux* in french) if we are at least **8** motivated players (+ the game master), else it won't be funny. The session may take place on **Saturday evening** because it's the only day I'm there.
 
 I have the game edition called "The Pact" with all the existing expansions (New Moon, Characters and The Village). That means that if you're already familiar with this game, we could play in a very interesting way. Otherwise, we will stick at the basic game, that is funny too ;-)
 
@@ -22,7 +22,7 @@ Could you please write down your name and your game level if you are interested 
 
 Name         | Already played? (yes/no)   | Level (novice/intermediate/expert) | Can master (yes/no) |
 ------------ | -------------------------- | --------------------------         | ------------        |
-@djouuuuh    | yes                        | intermediate                       | yes (with a cheating paper for the translation) |
+@djouuuuh    | yes                        | intermediate                       | yes (with a cheatsheet for translations + my poor english) |
 @toch        | yes                        | expert without extensions          | yes (I need cheatsheet for extensions)      |
 @cveneziani  | yes                        | intermediate                       | no                  |
 @flexbox     | yes                        | expert with extensions             | no                  |
