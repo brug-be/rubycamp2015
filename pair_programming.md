@@ -38,6 +38,7 @@ I, @toch, will help you to create the pairs.
 Promoter     | Project                    |
 ------------ | -------------------------- |
 ~~@djouuuuh~~    | Create a RoR webservice with an admin interface to manage a list of shops locations and information (displayed as a marker with a popup on a Google Map, for example). |
+@stanboyet   | Create a Tricount-like money management app in React served by a rails API, with a strong emphasis on the feature finding the shortest way to reimburse all participants  |
 ...          | ...                     |
 
 ### Helpers
