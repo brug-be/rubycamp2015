@@ -38,6 +38,7 @@ I, @toch, will help you to create the pairs.
 Promoter     | Project                    |
 ------------ | -------------------------- |
 ~~@djouuuuh~~    | Create a RoR webservice with an admin interface to manage a list of shops locations and information (displayed as a marker with a popup on a Google Map, for example). |
+@kvzb        | Investigate, create a proof-of-concept app using [Lotus.rb](https://lotusrb.org/)|
 ...          | ...                     |
 
 ### Helpers
@@ -49,6 +50,7 @@ Pseudo       | Skill                             |
 @tgautier    | ruby/rails, code architecture (the other rails way), devops & cloud computing best practices |
 ~~@apneadiving~~ | ruby, javascript, angular         |
 @cveneziani  | ruby/rails, code architecture (the other rails way), style conventions |
+@kvzb        | ruby, rails, front-end design, api design, ...|
 
 ### Pairs
 
