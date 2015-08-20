@@ -28,7 +28,7 @@ Name         | Already played? (yes/no)   | Level (novice/intermediate/expert) |
 @flexbox     | yes                        | expert with extensions             | no                  |
 @apneadiving | no                         | novice                             | no                  |
 @tgautier    | no                         | novice                             | no                  |
-@tgautier    | yes                         | novice                             | no                  |
+@borisrorsvort    | yes                         | novice                             | no                  |
 
 ## Board Games
 
