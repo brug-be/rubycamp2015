@@ -28,6 +28,7 @@ Name         | Already played? (yes/no)   | Level (novice/intermediate/expert) |
 @flexbox     | yes                        | expert with extensions             | no                  |
 @apneadiving | no                         | novice                             | no                  |
 @tgautier    | no                         | novice                             | no                  |
+@tgautier    | yes                         | novice                             | no                  |
 
 ## Board Games
 
@@ -38,4 +39,5 @@ Name         | Already played? (yes/no)   | Level (novice/intermediate/expert) |
 * Time's Up (no one) - We just need paper, pens and our imagination
 * Concept (@apneadiving)
 * Cards against humanity (@ys)
-* Exploding kittens (@ys)
+* Exploding kittens (@ys + @borisrorsvort)
+* Boss Monster (@borisrorsvort)
