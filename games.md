@@ -14,7 +14,7 @@ The Werewolves of Miller's Hollow is a game that takes place in a small village 
 
 #### Rules
 
-I found this [document](http://www.boardgamer.ro/custom_images/regulamente/Regulament%20The%20Werewolves%20of%20Millers%20Hollow%20-%20New%20Moon.pdf) explaining the basic rules but we will explain it again and more deeply before the session.
+[Download the rules in pdf](assets/the-werewolves-of-millers-hollow.pdf)
 
 #### Players
 
