@@ -15,6 +15,7 @@ the event.
 
 # Organization
 
+* [Accomodation, meals, and other details](accomodation.md)
 * [Carpooling](carpooling.md)
 
 # Activities
