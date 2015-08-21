@@ -29,6 +29,7 @@ Name         | Already played? (yes/no)   | Level (novice/intermediate/expert) |
 @apneadiving | no                         | novice                             | no                  |
 @tgautier    | no                         | novice                             | no                  |
 @borisrorsvort    | yes                         | novice                             | no                  |
+@stanboyet    | yes                         | novice                             | no                  |
 
 ## Board Games
 
