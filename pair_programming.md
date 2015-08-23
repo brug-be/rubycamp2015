@@ -38,6 +38,7 @@ I, @toch, will help you to create the pairs.
 Promoter     | Project                    |
 ------------ | -------------------------- |
 ~~@djouuuuh~~    | Create a RoR webservice with an admin interface to manage a list of shops locations and information (displayed as a marker with a popup on a Google Map, for example). |
+@hannesfostie | Create an online game much like Planetarion.com - this is as geeky as it gets, but something I think could get creative juices flowing. Way different from regular web app programming, I think. This is only for fun, but I think having more than 2 people on this could work. |
 ...          | ...                     |
 
 ### Helpers
