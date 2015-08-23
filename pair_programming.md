@@ -39,7 +39,8 @@ Promoter     | Project                    |
 ------------ | -------------------------- |
 ~~@djouuuuh~~    | Create a RoR webservice with an admin interface to manage a list of shops locations and information (displayed as a marker with a popup on a Google Map, for example). |
 @hannesfostie | Create an online game much like Planetarion.com - this is as geeky as it gets, but something I think could get creative juices flowing. Way different from regular web app programming, I think. This is only for fun, but I think having more than 2 people on this could work. |
-...          | ...                     |
+@rein          | Since I'm rather new to the scene, I am interested in most any projects someone would be willing to work on with me. Mostly I'd be interested in learning how to contribute to OSS, front-end (JS, Sass) or projects in Rails that require more tinkering and thoughts than standard CRUD apps.|
+...          | ...          |
 
 ### Helpers
 
