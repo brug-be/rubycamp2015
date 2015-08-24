@@ -47,10 +47,13 @@ None are provided. If you really want one, use your mobile.
 
 ## Meals and Drinks
 
-Breakfast, Lunch, and Dinner are provided. If budget allows it, there will be
-also some snacks. The different diets are taken into account. Of course, if you
-want, you are free to bring your own food, for instance to share a cake or cook
-something special. The menu will be shared soon (see #4).
+[Breakfast, Lunch, and Dinner are provided](menu.md). The different diets are taken into
+account as much as possible.
+
+As we run on a very limited budget, we'll bring very few snacks such as salt
+salts. If you want some cakes, biscuits, appetizers, or any other sweeties or
+salties, please bring them with you and share it! Sharing food is one of the
+best way to meet each other ;).
 
 Common soft drinks are provided such as tea or coffee. Pils are the only
 provided alcoholic beverage. If you want a good wine, a special beer, a strange
