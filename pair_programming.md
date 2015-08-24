@@ -59,4 +59,4 @@ Promoter    | Helper        | Project                    |
 @djouuuuh    | @apneadiving | Create a RoR webservice with an admin interface to manage a list of shops locations and information (displayed as a marker with a popup on a Google Map, for example). |
 ...          | ...          | ...                        |
 
-Olivier: Create a RoR webservice that grants authorisation without the need to log in. A bit like doodle where you can create and edit a doodle as the organiser without the need to log in. As a participant you can join and edit your participation to the doodle without logging in either.
+Olivier: Create a RoR webservice that grants authorisation without the need to log in. A bit like doodle where you can create and edit a doodle as the organiser without logging in. As a participant you can join and edit your participation to the doodle without logging in either.
