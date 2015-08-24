@@ -8,6 +8,7 @@ What have been suggested:
 * running
 *   Olivier: I'll bring my running gear.
 *   Joren: I'll pack my shoes
+*   Benjamin: I'm in
 * freesbie
 * yoga
 * ...
