@@ -12,9 +12,11 @@ What have been suggested:
   * Benjamin: I'm in
   * Stan : I'm in my shoes
   * Cecile: I"m in with my shoes.
+  * Oana
 * freesbie
   * Boris
 * yoga
   * Cecile: I need a mattress!
   * Boris
+  * Oana
 * ...
