@@ -13,6 +13,8 @@ What have been suggested:
   * Stan : I'm in my shoes
   * Cecile: I"m in with my shoes.
 * freesbie
+  * Boris
 * yoga
   * Cecile: I need a mattress!
+  * Boris
 * ...
