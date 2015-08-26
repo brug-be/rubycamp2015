@@ -15,8 +15,19 @@ What have been suggested:
   * Oana
 * freesbie
   * Boris
-* yoga
-  * Cecile: I need a mattress!
-  * Boris
-  * Oana
-* ...
+  * Toch
+* yoga (see below)
+
+## Yoga
+
+Two suggested sessions:
+
+* [Yoga For Back Pain - Yoga Basics](https://youtu.be/phuS5VLQy8c)
+* [Yoga for Beginners - Foundations of Flow](https://youtu.be/1p-ayBIRRHs)
+
+Participants:
+
+* Cecile: I need a mattress!
+* Boris
+* Oana
+* Toch
