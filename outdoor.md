@@ -13,6 +13,7 @@ What have been suggested:
   * Stan : I'm in my shoes
   * Cecile: I"m in with my shoes.
   * Oana
+  * Thomas G.: I'm in with my :athletic_shoe:
 * freesbie
   * Boris
   * Toch
