@@ -54,6 +54,7 @@ Pseudo       | Skill                             |
 @apneadiving | ruby, javascript, angular         |
 @cveneziani  | ruby/rails, code architecture (the other rails way), style conventions |
 @kvzb        | ruby, rails, front-end design, api design, ...|
+@otagi       | ruby, rails, css, js              |
 
 ### Pairs
 
