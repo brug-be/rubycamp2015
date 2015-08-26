@@ -42,3 +42,4 @@ Name         | Already played? (yes/no)   | Level (novice/intermediate/expert) |
 * Cards against humanity (@ys)
 * Exploding kittens (@ys + @borisrorsvort)
 * Boss Monster (@borisrorsvort)
+* 7 Wonders (@oana-sipos)
