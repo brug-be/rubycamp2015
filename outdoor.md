@@ -33,3 +33,4 @@ Participants:
 * Oana
 * Toch
 * Stan
+* Olivier (I love Hatha Yoga)
