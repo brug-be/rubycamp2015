@@ -14,10 +14,6 @@ Belgique
 ![Address of the venue](images/map-venue.png)
 [Open the map](https://goo.gl/maps/uRmvv)
 
-### Directions
-
-[From Brussels](http://www.rome2rio.com/s/Brussels-Central-Station/Esplanade-de-l-Abeille-4130-Esneux-Belgium)
-
 
 ## Checkin - Checkout
 
@@ -69,6 +65,8 @@ weekend.
 
 Tilff is [accessible by bike, train, bus, or car](http://www.sitilff.be/venir/venir-a-tilff/).
 A [carpooling](carpooling.md) is also organized by the participants.
+
+[From Brussels](http://www.rome2rio.com/s/Brussels-Central-Station/Esplanade-de-l-Abeille-4130-Esneux-Belgium)
 
 ## Code of Conduct
 
