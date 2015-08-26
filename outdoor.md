@@ -32,3 +32,4 @@ Participants:
 * Boris
 * Oana
 * Toch
+* Stan
