@@ -42,6 +42,7 @@ Promoter     | Project                    |
 ~~@rein~~        | ~~Since I'm rather new to the scene, I am interested in most any projects someone would be willing to work on with me. Mostly I'd be interested in learning how to contribute to OSS, front-end (JS, Sass) or projects in Rails that require more tinkering and thoughts than standard CRUD apps.~~ |
 ~~@kvzb~~        | ~~Investigate, create a proof-of-concept app using [Lotus.rb](https://lotusrb.org/)~~|
 @tgautier        | Investigate, create a proof-of-concept app using [Lotus.rb](https://lotusrb.org/)|
+@joren           | Personal live tracker app, a way to track stuff about you, km's driven with your car, log when go climbing to see if my subscription pays of,.... I already thought about the app a lot, but nothing concrete.  |
 ...          | ...                     |
 
 ### Helpers
