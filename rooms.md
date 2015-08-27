@@ -49,8 +49,8 @@ It has 2 beds.
 
 2 Roommates:
 
-* ...
-* ...
+* @oana-sipos
+* @cveneziani
 
 ## Room 5
 
