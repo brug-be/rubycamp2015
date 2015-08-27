@@ -42,6 +42,7 @@ Promoter     | Project                    |
 ~~@rein~~        | ~~Since I'm rather new to the scene, I am interested in most any projects someone would be willing to work on with me. Mostly I'd be interested in learning how to contribute to OSS, front-end (JS, Sass) or projects in Rails that require more tinkering and thoughts than standard CRUD apps.~~ |
 ~~@kvzb~~        | ~~Investigate, create a proof-of-concept app using [Lotus.rb](https://lotusrb.org/)~~|
 @tgautier        | Investigate, create a proof-of-concept app using [Lotus.rb](https://lotusrb.org/)|
+@nicefiction     | Create a RoR webservice that grants authorisation without the need to log in. A bit like doodle where you can create and edit a doodle as the organiser without logging in. As a participant you can join and edit your participation to the doodle without logging in either. |
 ...          | ...                     |
 
 ### Helpers
@@ -51,7 +52,6 @@ Pseudo       | Skill                             |
 @toch        | ruby, crystal, AI, stat           |
 @flexbox     | front-end, HTML, Sass, JavaScript |
 @tgautier    | ruby/rails, code architecture (the other rails way), devops & cloud computing best practices |
-@apneadiving | ruby, javascript, angular         |
 @cveneziani  | ruby/rails, code architecture (the other rails way), style conventions |
 @kvzb        | ruby, rails, front-end design, api design, ...|
 @otagi       | ruby, rails, css, js              |
@@ -63,7 +63,6 @@ Pseudo       | Skill                             |
 
 Promoter    | Helper        | Project                    |
 ------------ | ------------ | -------------------------- |
-@djouuuuh    | @apneadiving | Create a RoR webservice with an admin interface to manage a list of shops locations and information (displayed as a marker with a popup on a Google Map, for example). |
 @kvzb        | @toch        | Investigate, create a proof-of-concept app using [Lotus.rb](https://lotusrb.org/)|
 @nysthee     | @cveneziani  | Investigate, create a proof-of-concept app using [Lotus.rb](https://lotusrb.org/)|
 @rein        | @flexbox     | Share knowledge about front-end stuff … |
