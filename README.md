@@ -23,4 +23,5 @@ the event.
 
 * [Talks](talks.md)
 * [Pair Programming](pair_programming.md)
+* [Outdoor](outdoor.md)
 * [Games](games.md)
