@@ -6,6 +6,7 @@ What have been suggested:
 
 * wandering
   * Cecile: I'm in.
+  * Rein: I'm in
 * running
   * Olivier: I'll bring my running gear.
   * Joren: I'll pack my shoes
@@ -34,3 +35,4 @@ Participants:
 * Toch
 * Stan
 * Olivier (I love Hatha Yoga)
+* Rein (no experience with Yoga though)
