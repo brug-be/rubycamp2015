@@ -94,4 +94,4 @@ It has 1 set of bunk-beds.
 2 Roommates:
 
 * @flexbox
-* ...
+* @tgautier
