@@ -66,4 +66,4 @@ Promoter    | Helper        | Project                    |
 @kvzb        | @toch        | Investigate, create a proof-of-concept app using [Lotus.rb](https://lotusrb.org/)|
 @nysthee     | @cveneziani  | Investigate, create a proof-of-concept app using [Lotus.rb](https://lotusrb.org/)|
 @rein        | @flexbox     | Share knowledge about front-end stuff … |
-Olivier      | ...          | Create a RoR webservice that grants authorisation without the need to log in. A bit like doodle where you can create and edit a doodle as the organiser without logging in. As a participant you can join and edit your participation to the doodle without logging in either.                        |
+Olivier      | @otagi       | Create a RoR webservice that grants authorisation without the need to log in. A bit like doodle where you can create and edit a doodle as the organiser without logging in. As a participant you can join and edit your participation to the doodle without logging in either.                        |
