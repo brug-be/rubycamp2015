@@ -55,6 +55,8 @@ Pseudo       | Skill                             |
 @cveneziani  | ruby/rails, code architecture (the other rails way), style conventions |
 @kvzb        | ruby, rails, front-end design, api design, ...|
 @otagi       | ruby, rails, css, js              |
+@bluesmile82 | ruby, rails, css, js, d3.js, react (learning) |
+@rasmachineman | ruby, rails, css, js, react (learning), angular (learning), jupiler (master) |
 
 ### Pairs
 
