@@ -5,7 +5,7 @@ organized. Only the meal schedule is not an option.
 
 ## Friday
 
-* 7PM: Meeting at a bar in Tilff
+* 7PM: Meeting at the ba [Le Saucy](https://goo.gl/maps/PUW8Q) in Tilff
 * 8PM: Checkin
 * 8.30PM-10PM: [Dinner](menu.md)
 * 10PM-...: [Games](games.md)
