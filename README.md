@@ -21,6 +21,7 @@ the event.
 
 # Activities
 
+* [Schedule](schedule.md)
 * [Talks](talks.md)
 * [Pair Programming](pair_programming.md)
 * [Outdoor](outdoor.md)
