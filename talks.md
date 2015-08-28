@@ -7,3 +7,4 @@ Pseudo                                | Description                            |
 [toch](https://github.com/toch)       | Presenting and discussing the Ruby Belgium association (how to grow the community, how can you help, what can we do to help the job market) | round table | association
 Olivier | Mike from the Pragmatic Studio just released [a new course](https://pragmaticstudio.com/elm). What are your thoughts on this? Is Elm really going to replace Javascript? How does it relate to Rails?     | talk | front-end
 [cveneziani](https://github.com/cveneziani) | How I use Form objects in my Rails applications | talk | rails, gem
+[cveneziani](https://github.com/cveneziani) | Service objects. Are you using them in your Rails applications? And how? | round table | rails, design pattern
