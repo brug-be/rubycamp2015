@@ -7,6 +7,7 @@ List are great and here we collect all the links we want to share with others.
 __Craft everything with Middleman__
 
 - [Slides](http://courses.davidl.fr/presentations/middleman/#/)
+- [Lonely Planet Styleguide](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 
 __How I use Form objects in my Rails applications__
 
