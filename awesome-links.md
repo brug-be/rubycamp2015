@@ -8,6 +8,7 @@ __Craft everything with Middleman__
 
 - [Slides](http://courses.davidl.fr/presentations/middleman/#/)
 - [Lonely Planet Styleguide](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
+- [foundation-boilerplate](https://github.com/flexbox/foundation-boilerplate)
 
 __How I use Form objects in my Rails applications__
 
