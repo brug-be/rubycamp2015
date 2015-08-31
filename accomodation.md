@@ -32,15 +32,7 @@ and wash the dishes.
 
 ## Rooms
 
-Each room has its own shower and sink. There are 8 rooms:
-
-* 4 rooms 2 sets of bunk-beds (4 persons)
-* 2 room 1 bunk-bed (2 persons)
-* 1 room 2 beds (2 persons)
-* 1 room 4 sets of bunk-beds (8 persons)
-* 1 room 2 beds for persons with reduced mobility (2 persons)
-
-The allocation will be organized soon.
+Go to the [rooms page](rooms.md).
 
 ## Internet Connection
 

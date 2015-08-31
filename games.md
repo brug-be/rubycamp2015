@@ -31,6 +31,7 @@ Name         | Already played? (yes/no)   | Level (novice/intermediate/expert) |
 @borisrorsvort    | yes                         | novice                             | no                  |
 @stanboyet    | yes                         | novice                             | no                  |
 @otagi       | yes                        | novice                             | no                  |
+@rein       | yes                         | expert without expansion packs    | Depends how much the rules differ from what I'm used to |
 
 ## Board Games
 
