@@ -26,3 +26,7 @@ the event.
 * [Pair Programming](pair_programming.md)
 * [Outdoor](outdoor.md)
 * [Games](games.md)
+
+# After the event
+
+* [links](awesome-links.md)
