@@ -39,6 +39,11 @@ Promoter     | Project                    |
 ------------ | -------------------------- |
 ~~@djouuuuh~~    | Create a RoR webservice with an admin interface to manage a list of shops locations and information (displayed as a marker with a popup on a Google Map, for example). |
 @stanboyet   | Create a Tricount-like money management app in React served by a rails API, with a strong emphasis on the feature finding the shortest way to reimburse all participants  |
+@hannesfostie | Create an online game much like Planetarion.com - this is as geeky as it gets, but something I think could get creative juices flowing. Way different from regular web app programming, I think. This is only for fun, but I think having more than 2 people on this could work. |
+~~@rein~~        | ~~Since I'm rather new to the scene, I am interested in most any projects someone would be willing to work on with me. Mostly I'd be interested in learning how to contribute to OSS, front-end (JS, Sass) or projects in Rails that require more tinkering and thoughts than standard CRUD apps.~~ |
+~~@kvzb~~        | ~~Investigate, create a proof-of-concept app using [Lotus.rb](https://lotusrb.org/)~~|
+@tgautier        | Investigate, create a proof-of-concept app using [Lotus.rb](https://lotusrb.org/)|
+@nicefiction     | Create a RoR webservice that grants authorisation without the need to log in. A bit like doodle where you can create and edit a doodle as the organiser without logging in. As a participant you can join and edit your participation to the doodle without logging in either. |
 ...          | ...                     |
 
 ### Helpers
@@ -48,12 +53,20 @@ Pseudo       | Skill                             |
 @toch        | ruby, crystal, AI, stat           |
 @flexbox     | front-end, HTML, Sass, JavaScript |
 @tgautier    | ruby/rails, code architecture (the other rails way), devops & cloud computing best practices |
-~~@apneadiving~~ | ruby, javascript, angular         |
 @cveneziani  | ruby/rails, code architecture (the other rails way), style conventions |
+@kvzb        | ruby, rails, front-end design, api design, ...|
+@otagi       | ruby, rails, css, js              |
+@bluesmile82 | ruby, rails, css, js, d3.js, react (learning) |
+@rasmachineman | ruby, rails, css, js, react (learning), angular (learning), jupiler (master) |
+@borisrorsvort  | Ux/Design, front-end, javascript (+Ember/React), RoR |
 
 ### Pairs
 
 Promoter    | Helper        | Project                    |
 ------------ | ------------ | -------------------------- |
-@djouuuuh    | @apneadiving | Create a RoR webservice with an admin interface to manage a list of shops locations and information (displayed as a marker with a popup on a Google Map, for example). |
+@kvzb        | @toch        | Investigate, create a proof-of-concept app using [Lotus.rb](https://lotusrb.org/)|
+@nysthee     | @cveneziani  | Investigate, create a proof-of-concept app using [Lotus.rb](https://lotusrb.org/)|
+@rein        | @flexbox     | Share knowledge about front-end stuff … |
+Olivier      | @otagi       | Create a RoR webservice that grants authorisation without the need to log in. A bit like doodle where you can create and edit a doodle as the organiser without logging in. As a participant you can join and edit your participation to the doodle without logging in either.                        |
+@borisrorsvort | ...          | Image tagging as a tool for teaching contemporary art |
 ...          | ...          | ...                        |

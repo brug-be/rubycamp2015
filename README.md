@@ -15,9 +15,19 @@ the event.
 
 # Organization
 
+* [Accomodation, meals, and other details](accomodation.md)
+* [Menu](menu.md)
 * [Carpooling](carpooling.md)
+* [Rooms](rooms.md)
 
 # Activities
 
+* [Schedule](schedule.md)
 * [Talks](talks.md)
 * [Pair Programming](pair_programming.md)
+* [Outdoor](outdoor.md)
+* [Games](games.md)
+
+# After the event
+
+* [links](awesome-links.md)
