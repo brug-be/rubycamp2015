@@ -35,3 +35,5 @@ __Ruby Belgian Association__
 
 - [Le secret des Pyramides d'Egypte](https://www.youtube.com/watch?v=xVFuBgNzAU4)
 - [Hacker - music for coding](https://open.spotify.com/user/wutangbifi/playlist/0Jt2JW0NTIL6MvV9dSOnqZ) on spotify
+- [Le Necrophile - Gabrielle Wittkop](http://www.amazon.fr/Le-n%C3%A9crophile-Gabrielle-Wittkop/dp/2843351103)
+- [Settlers of Catan](http://www.catan.com/game/catan)
