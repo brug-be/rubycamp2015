@@ -21,6 +21,14 @@ __Ruby Belgian Association__
 
 - [Sketch](https://www.flickr.com/photos/geekgrunge/21018223201/in/dateposted-public/)
 
+## Gems
+
+- [Reform](https://github.com/apotonick/reform)
+
+## Deploy
+
+- [DivShot](https://divshot.com/)
+
 ## Chill
 
 - [Le secret des Pyramides d'Egypte](https://www.youtube.com/watch?v=xVFuBgNzAU4)
