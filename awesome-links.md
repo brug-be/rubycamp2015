@@ -38,3 +38,4 @@ __Ruby Belgian Association__
 - [Le Necrophile - Gabrielle Wittkop](http://www.amazon.fr/Le-n%C3%A9crophile-Gabrielle-Wittkop/dp/2843351103)
 - [Settlers of Catan](http://www.catan.com/game/catan)
 - [Cards Against Humanity](http://cardsagainsthumanity.com)
+- [Ruby Sauce and Ruby Burger](https://github.com/rubyburgers/recipes/blob/master/README.md)
